@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 141.732 141.732" style="enable-background:new 0 0 141.732 141.732;" xml:space="preserve">
+<symbol  id="Half-N_2" viewBox="-30.098 -72.151 69.616 143.518">
+	<g id="Vertical_4_">
+	</g>
+	<g id="flange_7_">
+	</g>
+	<g id="flange_6_">
+		<polyline style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;" points="-23.094,70.866 
+			-29.598,58.819 -29.598,-59.604 -23.094,-71.651 		"/>
+		<polygon style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;" points="39.019,-18.341 -7.086,70.865 
+			-7.086,70.866 -23.094,70.866 -23.094,-71.651 -7.086,-71.651 -7.086,43.936 39.019,-45.27 		"/>
+	</g>
+</symbol>
+<symbol  id="QuarterBar" viewBox="-32.551 -5.979 26 11.898">
+	<polyline style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" points="-7.551,-4.995 -23.051,-4.995 -23.051,5.005 
+		-7.551,5.005 	"/>
+	<polygon style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:bevel;stroke-miterlimit:10;" points="-32.051,-5.481 -23.051,-4.521 
+		-23.051,5.479 -32.051,0.68 	"/>
+	<polygon style="fill:#FFFFFF;" points="-6.551,-4.495 -21.551,-4.495 -21.551,4.505 -6.551,4.505 	"/>
+	<polygon style="display:none;fill:none;" points="-32.551,5.505 -6.551,5.505 -6.551,-5.495 -32.551,-5.495 	"/>
+</symbol>
+<g id="legs">
+</g>
+<g id="N">
+	<g id="XMLID_2_">
+		<g id="XMLID_3_">
+			<g>
+				<path style="fill:#FFFFFF;" d="M105.625,26.497v73.7c0,6.27-5.07,11.34-11.33,11.34h-2.84l-42.81-42.51l8.01-8.07l34.8,34.56
+					v-10.47l-42.81-42.53l8.01-8.07l34.8,34.56v-31.17c0-6.26,5.08-11.34,11.34-11.34H105.625z"/>
+				<path style="fill:#FFFFFF;" d="M56.655,60.957l-8.01,8.07v31.17c0,6.26-5.07,11.34-11.34,11.34h-2.83v-73.71
+					c0-6.26,5.08-11.33,11.34-11.33h2.83l8.01,7.95l-8.01,8.07v10.49L56.655,60.957z"/>
+			</g>
+			<g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

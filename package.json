@@ -1,0 +1,27 @@
+{
+  "name": "namecoin-graphics",
+  "version": "1.5.0",
+  "description": "Official Namecoin graphics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indolering/namecoin-graphics.git"
+  },
+  "author": "indolering",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/indolering/namecoin-graphics/issues"
+  },
+  "homepage": "https://github.com/indolering/namecoin-graphics",
+  "dependencies": {
+    "gulp-raster": "^0.1.0"
+  },
+  "devDependencies": {
+    "gulp-gm": "0.0.5",
+    "gulp-rename": "^1.2.0",
+    "gulp-svg2png": "^0.3.0"
+  }
+}

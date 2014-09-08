@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 283.465 283.465" style="enable-background:new 0 0 283.465 283.465;" xml:space="preserve">
+<symbol  id="Half-N_2" viewBox="-30.098 -72.151 69.616 143.518">
+	<g id="Vertical_4_">
+	</g>
+	<g id="flange_7_">
+	</g>
+	<g id="flange_6_">
+		<polyline style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;" points="-23.094,70.866 
+			-29.598,58.819 -29.598,-59.604 -23.094,-71.651 		"/>
+		<polygon style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;" points="39.019,-18.341 -7.086,70.865 
+			-7.086,70.866 -23.094,70.866 -23.094,-71.651 -7.086,-71.651 -7.086,43.936 39.019,-45.27 		"/>
+	</g>
+</symbol>
+<symbol  id="QuarterBar" viewBox="-32.551 -5.979 26 11.898">
+	<polyline style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" points="-7.551,-4.995 -23.051,-4.995 -23.051,5.005 
+		-7.551,5.005 	"/>
+	<polygon style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:bevel;stroke-miterlimit:10;" points="-32.051,-5.481 -23.051,-4.521 
+		-23.051,5.479 -32.051,0.68 	"/>
+	<polygon style="fill:#FFFFFF;" points="-6.551,-4.495 -21.551,-4.495 -21.551,4.505 -6.551,4.505 	"/>
+	<polygon style="display:none;fill:none;" points="-32.551,5.505 -6.551,5.505 -6.551,-5.495 -32.551,-5.495 	"/>
+</symbol>
+<g id="legs">
+</g>
+<g id="N">
+	<circle style="fill:#186C9D;" cx="141.732" cy="141.732" r="141.732"/>
+	<g>
+		<g>
+			<defs>
+				
+					<rect id="SVGID_1_" x="75.229" y="61.88" transform="matrix(-0.9659 -0.2588 0.2588 -0.9659 241.9521 315.3182)" width="133.006" height="159.704"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_2_);">
+				<defs>
+					
+						<rect id="SVGID_3_" x="9.561" y="12.571" transform="matrix(-0.9659 -0.2588 0.2588 -0.9659 242.595 323.089)" width="266.009" height="266.009"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_4_);fill:#7CA3CC;" d="M226.615,81.888l-5.14-1.377c-11.352-3.042-23.02,3.695-26.063,15.049
+					l-35.801,133.61l5.138,1.377c11.354,3.042,23.022-3.694,26.064-15.047L226.615,81.888z"/>
+				
+					<rect x="124.039" y="96.532" transform="matrix(0.866 -0.5 0.5 0.866 -64.3312 89.4121)" style="clip-path:url(#SVGID_4_);fill:#C3D3DB;" width="21.282" height="136.436"/>
+				<path style="clip-path:url(#SVGID_4_);fill:#C3D3DB;" d="M123.84,54.337l-5.14-1.377c-11.352-3.042-23.02,3.695-26.063,15.049
+					l-35.801,133.61l5.138,1.377c11.354,3.042,23.022-3.694,26.064-15.047L123.84,54.337z"/>
+				<path style="clip-path:url(#SVGID_4_);fill:#E6E6E6;" d="M89.507,79.691L56.837,201.619c7.096,1.901,14.389-2.308,16.29-9.404
+					l29.106-108.625L89.507,79.691z"/>
+				<path style="clip-path:url(#SVGID_4_);fill:#E6E6E6;" d="M123.837,54.349l-5.14-1.377c-11.352-3.042-23.02,3.695-26.063,15.049
+					L64.562,172.788l5.138,1.377c11.354,3.042,23.023-3.696,26.064-15.048L123.837,54.349z"/>
+				<path style="clip-path:url(#SVGID_4_);fill:#C3D3DB;" d="M123.859,54.274l-2.331-0.625c-5.809-1.556-11.778,1.89-13.334,7.697
+					L74.843,185.813c-0.345,1.287,0.42,2.611,1.709,2.957c5.807,1.556,11.776-1.891,13.332-7.697L123.859,54.274z"/>
+				<polygon style="clip-path:url(#SVGID_4_);fill:#C3D3DB;" points="192.072,172.498 173.642,183.139 109.031,71.227 
+					123.854,54.341 				"/>
+				<path style="clip-path:url(#SVGID_4_);fill:#C3D3DB;" d="M226.609,81.908l-5.14-1.377c-11.352-3.042-23.02,3.695-26.063,15.049
+					l-35.801,133.61l5.138,1.377c11.354,3.042,23.022-3.694,26.064-15.047L226.609,81.908z"/>
+				<path style="clip-path:url(#SVGID_4_);fill:#E6E6E6;" d="M192.276,107.262L159.605,229.19c7.096,1.901,14.389-2.308,16.29-9.404
+					l29.106-108.625L192.276,107.262z"/>
+				<path style="clip-path:url(#SVGID_4_);fill:#E6E6E6;" d="M226.605,81.92l-5.14-1.377c-11.352-3.042-23.02,3.695-26.063,15.049
+					l-28.072,104.767l5.138,1.377c11.354,3.042,23.023-3.696,26.064-15.048L226.605,81.92z"/>
+				<path style="clip-path:url(#SVGID_4_);fill:#C3D3DB;" d="M226.628,81.845l-2.331-0.625c-5.809-1.556-11.778,1.89-13.334,7.697
+					l-33.351,124.466c-0.345,1.287,0.42,2.611,1.709,2.957c5.807,1.556,11.776-1.891,13.332-7.697L226.628,81.845z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
