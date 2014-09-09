@@ -2,72 +2,65 @@
 <!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 283.465 283.465" style="enable-background:new 0 0 283.465 283.465;" xml:space="preserve">
-<symbol  id="Half-N_2" viewBox="-30.098 -72.151 69.616 143.518">
+	 viewBox="0 0 283.4645691 283.4645691" style="enable-background:new 0 0 283.4645691 283.4645691;" xml:space="preserve">
+<symbol  id="Half-N_2" viewBox="-30.0977001 -72.1513977 69.6163025 143.5175934">
 	<g id="Vertical_4_">
 	</g>
 	<g id="flange_7_">
 	</g>
 	<g id="flange_6_">
-		<polyline style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;" points="-23.094,70.866 
-			-29.598,58.819 -29.598,-59.604 -23.094,-71.651 		"/>
-		<polygon style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;" points="39.019,-18.341 -7.086,70.865 
-			-7.086,70.866 -23.094,70.866 -23.094,-71.651 -7.086,-71.651 -7.086,43.936 39.019,-45.27 		"/>
+		<polyline style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;" points="-23.0937996,70.8662033 
+			-29.5977001,58.8193016 -29.5977001,-59.6044998 -23.0937996,-71.6513977 		"/>
+		<polygon style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;" points="39.0186005,-18.3407993 
+			-7.0859399,70.8651962 -7.0859399,70.8662033 -23.0937996,70.8662033 -23.0937996,-71.6513977 -7.0859399,-71.6513977 
+			-7.0859399,43.9355011 39.0186005,-45.2695007 		"/>
 	</g>
 </symbol>
-<symbol  id="QuarterBar" viewBox="-32.551 -5.979 26 11.898">
-	<polyline style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" points="-7.551,-4.995 -23.051,-4.995 -23.051,5.005 
-		-7.551,5.005 	"/>
-	<polygon style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:bevel;stroke-miterlimit:10;" points="-32.051,-5.481 -23.051,-4.521 
-		-23.051,5.479 -32.051,0.68 	"/>
-	<polygon style="fill:#FFFFFF;" points="-6.551,-4.495 -21.551,-4.495 -21.551,4.505 -6.551,4.505 	"/>
-	<polygon style="display:none;fill:none;" points="-32.551,5.505 -6.551,5.505 -6.551,-5.495 -32.551,-5.495 	"/>
+<symbol  id="QuarterBar" viewBox="-32.5513763 -5.9786296 26 11.8983498">
+	<polyline style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" points="-7.5513778,-4.9954119 -23.0513783,-4.9954119 
+		-23.0513783,5.0045881 -7.5513778,5.0045881 	"/>
+	<polygon style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:bevel;stroke-miterlimit:10;" points="-32.0513763,-5.4814501 
+		-23.0513783,-4.5214801 -23.0513783,5.4785199 -32.0513763,0.679688 	"/>
+	<polygon style="fill:#FFFFFF;" points="-6.5513778,-4.4954119 -21.5513783,-4.4954119 -21.5513783,4.5045881 -6.5513778,4.5045881 
+			"/>
+	<polygon style="display:none;fill:none;" points="-32.5513763,5.5045881 -6.5513778,5.5045881 -6.5513778,-5.4954119 
+		-32.5513763,-5.4954119 	"/>
 </symbol>
 <g id="legs">
 </g>
 <g id="N">
-	<circle style="fill:#186C9D;" cx="141.732" cy="141.732" r="141.732"/>
+	<circle style="fill:#186C9D;" cx="141.7322845" cy="141.7322845" r="141.7322845"/>
 	<g>
 		<g>
 			<defs>
 				
-					<rect id="SVGID_1_" x="75.049" y="62.031" transform="matrix(-0.9659 -0.2588 0.2588 -0.9659 241.9521 315.3182)" width="133.367" height="159.403"/>
+					<rect id="SVGID_1_" x="75.2013168" y="61.9032822" transform="matrix(-0.9659258 -0.2588191 0.2588191 -0.9659258 241.9521179 315.3181763)" width="133.0619354" height="159.6580048"/>
 			</defs>
 			<clipPath id="SVGID_2_">
 				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 			</clipPath>
+			<polygon style="clip-path:url(#SVGID_2_);fill:#FFFFFF;" points="123.4544525,54.2499619 123.5088654,54.2645416 
+				123.5239258,54.2083206 			"/>
 			<g style="clip-path:url(#SVGID_2_);">
 				<defs>
 					
-						<rect id="SVGID_3_" x="9.477" y="12.642" transform="matrix(-0.9659 -0.2588 0.2588 -0.9659 242.1227 322.8303)" width="265.669" height="265.669"/>
+						<rect id="SVGID_3_" x="75.204155" y="61.8781395" transform="matrix(-0.9659258 -0.2588191 0.2588191 -0.9659258 241.9604492 315.2980957)" width="133.0619354" height="159.6871033"/>
 				</defs>
 				<clipPath id="SVGID_4_">
 					<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
 				</clipPath>
-				<g style="clip-path:url(#SVGID_4_);">
-					<defs>
-						
-							<rect id="SVGID_5_" x="75.049" y="62.03" transform="matrix(-0.9659 -0.2588 0.2588 -0.9659 241.9523 315.3177)" width="133.367" height="159.404"/>
-					</defs>
-					<clipPath id="SVGID_6_">
-						<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
-					</clipPath>
-					<g style="clip-path:url(#SVGID_6_);">
-						<defs>
-							
-								<rect id="SVGID_7_" x="75.049" y="62.03" transform="matrix(-0.9659 -0.2588 0.2588 -0.9659 241.9523 315.3177)" width="133.367" height="159.404"/>
-						</defs>
-						<clipPath id="SVGID_8_">
-							<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
-						</clipPath>
-						<path style="clip-path:url(#SVGID_8_);fill:#FFFFFF;" d="M226.772,82.006l-35.755,133.44
-							c-3.042,11.352-14.681,18.072-26.015,15.035l-5.142-1.378l-56.887-97.737l18.418-10.725l46.242,79.457l5.079-18.957
-							l-56.878-97.773l18.418-10.725l46.242,79.457l15.122-56.436c3.037-11.334,14.699-18.067,26.033-15.03L226.772,82.006z"/>
-						<path style="clip-path:url(#SVGID_8_);fill:#FFFFFF;" d="M121.39,120.641l-18.418,10.725L87.85,187.802
-							c-3.037,11.334-14.681,18.072-26.033,15.03l-5.124-1.373l35.76-133.458c3.037-11.334,14.694-18.049,26.029-15.012l5.124,1.373
-							l10.646,18.28l-18.418,10.725l-5.089,18.993L121.39,120.641z"/>
-					</g>
-				</g>
+				<path style="clip-path:url(#SVGID_4_);fill:#FFFFFF;" d="M221.5033569,80.5114059
+					c-11.3536072-3.0421906-22.4583893,3.7892303-25.5005798,15.1428452l-15.3081512,57.1307831l-56.8577194-98.4432678
+					l-5.1508408-1.3801651c-11.3536072-3.0421906-23.01577,3.6204338-26.0579605,14.9740486l-35.8186455,133.677002
+					l5.1345215,1.3757935c11.3717461,3.0470428,22.7232552-3.7765808,25.7654457-15.130188l15.1477814-56.5322876
+					l56.8578033,97.8698578l0.4812775,0.0900879l-0.0072937,0.0272064l4.5904083,1.2299957
+					c11.3536224,3.0421906,23.2625122-3.6126556,26.3095703-14.9843903l35.7991943-133.6044617L221.5033569,80.5114059z
+					 M167.9718628,200.2670746l-57.3293686-97.9962006l5.1804733-19.3337784l0.2275314,0.3914185l56.447258,97.7987289
+					l0.4115906,0.7128906L167.9718628,200.2670746z"/>
+				<polygon style="clip-path:url(#SVGID_4_);fill:#FFFFFF;" points="123.5232773,54.2093163 123.5086899,54.2637367 
+					123.454277,54.249157 				"/>
+				<polygon style="clip-path:url(#SVGID_4_);fill:#FFFFFF;" points="123.5232773,54.2093163 123.5086899,54.2637367 
+					123.454277,54.249157 				"/>
 			</g>
 		</g>
 	</g>
