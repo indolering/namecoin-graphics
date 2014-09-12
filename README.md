@@ -2,31 +2,33 @@ Namecoin Graphics
 =================
 This is the official repo for visual collateral (logos, badges, etc) for Namecoin.  Only material found in this repository should be used in official Namecoin software and websites.
 
-
-| ![Basic](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/100/100-namecoin-logo-basic.png) | ![Shaded](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/100/100-namecoin-logo-shaded.png) |      ![3D](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-3d.png) |
-| :--------: | :----: | -------: |
+| ![Basic](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-basic.png) | ![Shaded](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-shaded.png) |      ![3D](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-3d.png) |
+| :--------: | :----: | :------: |
 | Basic Logo | Shaded | Fancy 3D |
 
+| ![Banner](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/1000/1000-namecoin-logo+wordmark.png) | 
+| :--------: |
+| Full Banner |
 
 Usage
 =====
+
+NOTE: this section is incomplete, [see Firefox branding] guidelines.(https://www.mozilla.org/en-US/styleguide/identity/firefox/branding/)
+
 We strongly encourage outsider art and wish to promote liberal expression of the Namecoin brand.  However, this should be restricted to artistic expressions which are part of a larger composition: one-off pieces for fundraisers, images accompanying articles about Namecoin, etc.
 
-Competing logos being used as currency identifiers weaken the overall bran-recognition of Namecoin.
+Competing logos being used as currency identifiers weaken the overall brand-recognition of Namecoin.
 
 ## Good
 
+Examples
+
 ## Bad
 
+Examples
+
 ## License
-We have recently suffered from fraudulent software and misinformation spread by cranks and trolls.  Until we review our legal options, we are limiting use of these files to fair-use.  We are not comfortable with this licensing strategy and we intend to release the files under a permissive copy-left license after we have worked out the trademark and copyright issues with some lawyers.
-
-However, it is important to note that the vast majority of use-cases are covered by fair-use:
-
-* Thing
-* Thing
-* Etc
-
+We have recently suffered from fraudulent software and misinformation spread by cranks and trolls. We intend to release the files under a permissive copy-left license after we have worked out the trademark and copyright issues with some lawyers.  This should not be a problem in the interim as the vast majority of use-cases are covered by fair-use.
 
 Graphics Structure
 ==================
