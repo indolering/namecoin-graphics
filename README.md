@@ -6,14 +6,14 @@ This is the official repo for visual collateral (logos, badges, etc) for Namecoi
 | :--------: | :----: | :------: |
 | Basic Logo | Shaded | Fancy 3D |
 
-| ![Banner](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/1000/1000-namecoin-logo+wordmark.png) | 
+| ![Banner](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/500/500-namecoin-logo+wordmark.png) | 
 | :--------: |
 | Full Banner |
 
 Usage
 =====
 
-NOTE: this section is incomplete, [see Firefox branding] guidelines.(https://www.mozilla.org/en-US/styleguide/identity/firefox/branding/)
+NOTE: this section is incomplete, [see Firefox branding guidelines](https://www.mozilla.org/en-US/styleguide/identity/firefox/branding/).
 
 We strongly encourage outsider art and wish to promote liberal expression of the Namecoin brand.  However, this should be restricted to artistic expressions which are part of a larger composition: one-off pieces for fundraisers, images accompanying articles about Namecoin, etc.
 
