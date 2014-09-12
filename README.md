@@ -2,6 +2,16 @@ Namecoin Graphics
 =================
 This is the official repo for visual collateral (logos, badges, etc) for Namecoin.  Only material found in this repository should be used in official Namecoin software and websites.
 
+
+##Namecoin Blue
+* **Hex** \#7CA3CC
+* **Lab** 66, -3, -25
+* **RGB** 124, 163, 204
+* **HSB** 120, 39, 80 
+* **CMYK** 39, 20, 0, 20 
+
+You can find associated color pallettes [here](http://paletton.com/#uid=13A0u0kdAIF3ZYj8SRJhWytlSsx).
+
 | ![Basic](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-basic.png) | ![Shaded](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-shaded.png) |      ![3D](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-3d.png) |
 | :--------: | :----: | :------: |
 | Basic Logo | Shaded | Fancy 3D |
