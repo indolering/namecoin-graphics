@@ -3,11 +3,10 @@ Namecoin Graphics
 This is the official repo for visual collateral (logos, badges, etc) for Namecoin.  Only material found in this repository should be used in official Namecoin software and websites.
 
 
-| ![Coin Front](https://raw.github.com/indolering/nmc-graphics/master/png/500/nmc-coinage-2up.png) | ![Badge](https://raw.github.com/indolering/nmc-graphics/master/png/250/badge-prototype.png) |      ![Mini-Logo](https://raw.github.com/indolering/nmc-graphics/master/png/100/nmc-logo-mini.png) |
-| :-----------: | :-----------: | -----------: |
-| Coin Mockup | Namecoin Nerd Merit Badge | Mini Logo |
+| ![Basic](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/100/100-namecoin-logo-basic.png) | ![Shaded](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/100/100-namecoin-logo-shaded.png) |      ![3D](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-3d.png) |
+| :--------: | :----: | -------: |
+| Basic Logo | Shaded | Fancy 3D |
 
-![logo license](http://i.creativecommons.org/l/by-sa/4.0/80x15.png)
 
 Usage
 =====
