@@ -2,6 +2,13 @@ Namecoin Graphics
 =================
 This is the official repo for visual collateral (logos, badges, etc) for Namecoin.  Only material found in this repository should be used in official Namecoin software and websites.
 
+| ![Basic](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-basic.png) | ![Shaded](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-shaded.png) |      ![3D](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-3d.png) |
+| :--------: | :----: | :------: |
+| Basic Logo | Shaded | Fancy 3D |
+
+| ![Banner](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/500/500-namecoin-logo+wordmark.png) | 
+| :--------: |
+| Full Banner |
 
 ##Namecoin Blue
 * **Hex** \#7CA3CC
@@ -11,14 +18,6 @@ This is the official repo for visual collateral (logos, badges, etc) for Namecoi
 * **CMYK** 39, 20, 0, 20 
 
 You can find associated color pallettes [here](http://paletton.com/#uid=13A0u0kdAIF3ZYj8SRJhWytlSsx).
-
-| ![Basic](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-basic.png) | ![Shaded](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-shaded.png) |      ![3D](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo-3d.png) |
-| :--------: | :----: | :------: |
-| Basic Logo | Shaded | Fancy 3D |
-
-| ![Banner](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/500/500-namecoin-logo+wordmark.png) | 
-| :--------: |
-| Full Banner |
 
 Usage
 =====
