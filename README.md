@@ -11,11 +11,11 @@ This is the official repo for visual collateral (logos, badges, etc) for Namecoi
 | Full Banner |
 
 ##Namecoin Blue
-* **Hex** \#7CA3CC
-* **Lab** 66, -3, -25
-* **RGB** 124, 163, 204
-* **HSB** 120, 39, 80 
-* **CMYK** 39, 20, 0, 20 
+* **Hex** \#6a91c0
+* **Lab** 65, -6, -25
+* **RGB** 106, 145, 192
+* **HSB** 213, 45, 75 
+* **CMYK** 52, 27, 6, 0 
 
 You can find associated color pallettes [here](http://paletton.com/#uid=13A0u0kdAIF3ZYj8SRJhWytlSsx).
 
