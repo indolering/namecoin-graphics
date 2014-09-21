@@ -2,10 +2,9 @@ Namecoin Graphics
 =================
 This is the official repo for visual collateral (logos, badges, etc) for Namecoin.  Only material found in this repository should be used in official Namecoin software and websites.
 
-|
-![Basic](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo.png) |     ![Banner](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/500/500-namecoin-logo+wordmark.png) | 
-| :--------: | :---------: |
-| Basic Logo | Full Banner |
+|![Basic](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo.png)|![Banner](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/500/500-namecoin-logo+wordmark.png)|
+| :--------: | :----: |
+| Basic Logo | Banner |
 
 ##Namecoin Blue
 * **Hex** \#6a91c0
