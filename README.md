@@ -14,7 +14,8 @@ This is the official repo for visual collateral (designer speak for logos and br
 * **Lab** 65, -6, -25
 * **RGB** 106, 145, 192
 * **HSB** 213, 45, 75 
-* **CMYK** 52, 27, 6, 0 
+* **CMYK** 55, 29, 0, 14 
+* **Pantone CMYK** P 107-2 
 
 You can find pre-generated color schemes [here](http://paletton.com/#uid=13A0u0kdAIF3ZYj8SRJhWytlSsx).
 
