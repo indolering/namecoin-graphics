@@ -1,10 +1,13 @@
 Namecoin Graphics
 =================
-This is the official repo for visual collateral (logos, badges, etc) for Namecoin.  Only material found in this repository should be used in official Namecoin software and websites.
+This is the official repo for visual collateral (designer speak for logos and brand related graphics) for Namecoin.  Only material found in this repository and the typographic symbol ℕ should be used for official Namecoin software and for a currency identification.
 
-|![Basic](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo.png)|![Banner](https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/500/500-namecoin-logo+wordmark.png)|
+|![Basic][basic]|![Banner][banner]|
 | :--------: | :----: |
 | Basic Logo | Banner |
+
+[basic]: https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/200/200-namecoin-logo.png
+[banner]: https://raw.githubusercontent.com/indolering/namecoin-graphics/master/png/500/500-namecoin-logo+wordmark.png
 
 ##Namecoin Blue
 * **Hex** \#6a91c0
@@ -13,50 +16,30 @@ This is the official repo for visual collateral (logos, badges, etc) for Namecoi
 * **HSB** 213, 45, 75 
 * **CMYK** 52, 27, 6, 0 
 
-You can find associated color palettes [here](http://paletton.com/#uid=13A0u0kdAIF3ZYj8SRJhWytlSsx).
+You can find pre-generated color schemes [here](http://paletton.com/#uid=13A0u0kdAIF3ZYj8SRJhWytlSsx).
+
+##Namecoin ℕ
+Namecoin's typographic symbol (often used to identify a currency) is the mathematical symbol for the [natural numbers](http://en.wikipedia.org/wiki/Natural_number#Notation), `ℕ`.  Its typographic name is "double-struck capital n".
+
+| Encoding                  |             |
+|---------------------------|-------------|
+| Unicode Code Point        | `U+2115`    |
+| HTML Entity (Decimal)     | `&#8469;`   |
+| HTML Entity (Hexadecimal) | `&#x2115;`  |
+| URL Escape Code           | `%E2%84%95` |
+| CSS                       | `\002115`   |
+
+You can find fonts that support the symbol [here](http://www.fileformat.info/info/unicode/char/2115/fontsupport.htm) and information on how to input unicode symbols [here](http://en.wikipedia.org/wiki/Unicode_input).
 
 Usage
 =====
 
-TODO: this section is incomplete, [see Firefox branding guidelines](https://www.mozilla.org/en-US/styleguide/identity/firefox/branding/).
+Only these logos should be used as a currency identifier and when branding software.  Competing and modified logos weaken Namecoin's brand-recognition.  For further guidance, see Firefox's excellent [branding guidelines](https://www.mozilla.org/en-US/styleguide/identity/firefox/branding/).
 
 We strongly encourage outsider art and wish to promote liberal expression of the Namecoin brand.  However, this should be restricted to artistic expressions which are part of a larger composition: one-off pieces for fundraisers, images accompanying articles about Namecoin, etc.
 
-Competing logos being used as currency identifiers weaken the overall brand-recognition of Namecoin.
-
-## Good
-
-TODO: Examples
-
-## Bad
-
-TODO: Examples
-
 ## License
-We have recently suffered from fraudulent software and misinformation spread by cranks and trolls. We intend to release the files under a permissive copy-left license after we have worked out the trademark and copyright issues with some lawyers.  This should not be a problem in the interim as the vast majority of use-cases are covered by fair-use.
+We have recently suffered from fraudulent software and misinformation spread by cranks and trolls. We intend to release the files under a permissive copy-left license after we have worked out the trademark and copyright issues with some lawyers.  **The vast majority of use-cases are covered by fair-use** and licensing should not be a problem in the interim.
 
-Graphics Structure
-==================
-
-##ai
-The "source" files created using Illustrator, linked copies are used whenever possible.
-
-##SVG & PNG Conversion
-
-`ai2SvgPng.js` is used to convert the graphics from `./ai` to SVG and PNG.  Any .ai files with the word "icon" or "circle" in their names are exempted. It does not attempt to perform additional compression, which should be handled at the server level.
-
-`ai2SvgPng.js` requires illustrator and can be run by selecting:
-
-	File -> Scripts -> Other Scripts -> ai2SvgPng.js
-
-You will be prompted for the project directory, which is the root directory for the Git repo (`/namecoin-graphics/`). The script requires the following directories to be present:
-
-	/ai/name.ai
-	/svg/
-	/png/1000/
-	/png/500/
-	/png/200/
-	/png/100/
-
-##icons
-Generated manually, see `./icons/README.md`.
+## Modifications
+See `HOWTO.md` for information on altering the graphics.
