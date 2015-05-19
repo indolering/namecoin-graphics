@@ -50,7 +50,8 @@ You can use the favicons on a website by placing the following in the header:
 	<link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
 	<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
 	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
 	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-24x24.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
 	<meta name="msapplication-TileColor" content="#2b5797">
 	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
